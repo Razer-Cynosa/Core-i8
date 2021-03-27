@@ -1,4 +1,5 @@
 # MusikAsikBot
+Pemilik [Owner](https//t.me/aestheticboyy2/)
 
 # SU Music Player — The first open-source PyTgCalls based Pyrogram bot to play music in voice chats
 
